@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/max-niederman/max-niederman/master/banner.svg" alt="Hi, I'm Max Niederman"/>](https://maxniederman.com/)
 
-# I'm a Student and Developer
+# 𝙄'𝙢 𝙖 𝙎𝙩𝙪𝙙𝙚𝙣𝙩 𝙖𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 
 Hi, I'm Max. I'm a student and developer. I make websites, Discord bots, and Minecraft plugins, among other things.
 
