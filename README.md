@@ -7,6 +7,6 @@ I'm a student and developer. I code stuff and write blog posts sometimes.
 
 ![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=niederman&title_color=88C0D0&text_color=5E81AC&icon_color=8FBCBB&bg_color=2E3440)
 
-- ⌛ Main programming languages: JavaScript, Python, Rust, and Java
+- ⌛ Main programming languages: JavaScript/TypeScript, Rust, and Python
 
-- 🔭 I’m currently working on [my blog](https://maxniederman.com).
+- 🔭 I’m currently learning Svelte.
