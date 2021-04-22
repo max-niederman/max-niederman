@@ -9,4 +9,4 @@ I'm a student and developer. I code stuff and write blog posts sometimes.
 
 - ⌛ Main programming languages: JavaScript/TypeScript, Rust, and Python
 
-- 🔭 I’m currently learning Svelte.
+- 🔭 I’m currently working on a color palette extraction tool in Rust.
