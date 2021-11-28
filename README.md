@@ -9,4 +9,4 @@ I'm a student and developer. I code stuff and write things sometimes.
 
 - ⌛ Main programming languages: JavaScript/TypeScript, Rust, and Python
 
-- 🔭 I’m currently working on a time-tracking tool using [Hasura](https://hasura.io).
+- 🔭 I’m currently working on an alternative client for [Canvas](https://www.instructure.com/canvas).
