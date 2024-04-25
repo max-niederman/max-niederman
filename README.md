@@ -1,5 +1,14 @@
 # Hi, I'm Max.
 
-I do mostly app dev and dabble in networking and programming languages. At the moment I'm mostly a college student but finishing up my high school diploma.
+Student. Mathematician. Programmer. Engineer.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/311324287086624768)](https://discord.com/users/311324287086624768)
+Main things I'm working on right now (as of 2024-04-25):
+
+- Learning real analysis and abstract algebra.
+- [Centipede](https://github.com/max-niederman/centipede), a high-performance multipathing VPN.
+- Building a [field-oriented](https://en.wikipedia.org/wiki/Vector_control_(motor)) motor controller (hardware and software) from scratch
+- Revamping [my personal site](https://maxniederman.com).
+
+Contact me via
+- Discord: `_aq`
+- Email: `max@maxniederman.com`
