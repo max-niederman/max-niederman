@@ -15,6 +15,9 @@ Besides my own projects, I also contribute to
 - [Rust](https://rust-lang.org), my favorite programming language.
 - [Vexide](https://github.com/vexide/vexide), a Rust runtime for VEX V5 robots.
 
-Contact me via
-- Discord: `_aq`
-- Email: `max@maxniederman.com`
+I was programming lead of [FRC Team 3636](https://frcteam3636.com) for two years.
+
+Join [my Discord server](https://discord.gg/3wJyrBsKXu) or
+contact me via
+- Discord DM: `_aq`
+- Email: [`max@maxniederman.com`](mailto://max@maxniederman.com)
