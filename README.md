@@ -2,17 +2,17 @@
 
 Student. Mathematician. Programmer. Engineer.
 
-Main things I'm working on right now (as of 2024-04-25):
+Main things I'm working on right now (as of 2024-06-26):
 
-- Learning real analysis and abstract algebra.
-- [Centipede](https://github.com/max-niederman/centipede), a high-performance multipathing VPN.
-- Building a [field-oriented](https://en.wikipedia.org/wiki/Vector_control_(motor)) motor controller (hardware and software) from scratch
+- Learning abstract algebra.
+- Version 2 of [ttyper](https://github.com/max-niederman/ttyper), the most popular terminal-based typing test.
+- Designing and building my own custom ergonomic split keyboard, inspired by the [Dactyl Manuform](https://github.com/tshort/dactyl-keyboard).
 - Revamping [my personal site](https://maxniederman.com).
 
 Besides my own projects, I also contribute to
 
-- [Nix/Nixpkgs/NixOS](https://nixos.org), my package manager, build tool, and operating system of choice.
 - [Rust](https://rust-lang.org), my favorite programming language.
+- [Nix/Nixpkgs/NixOS](https://nixos.org), my package manager, build tool, and operating system of choice.
 - [Vexide](https://github.com/vexide/vexide), a Rust runtime for VEX V5 robots.
 
 I was programming lead of [FRC Team 3636](https://frcteam3636.com) for two years.
