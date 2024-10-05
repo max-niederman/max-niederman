@@ -2,12 +2,12 @@
 
 Student. Mathematician. Programmer. Engineer.
 
-Main things I'm working on right now (as of 2024-06-26):
+Main things I'm working on right now (as of 2024-10-05):
 
-- Learning abstract algebra.
-- Version 2 of [ttyper](https://github.com/max-niederman/ttyper), the most popular terminal-based typing test.
-- Designing and building my own custom ergonomic split keyboard, inspired by the [Dactyl Manuform](https://github.com/tshort/dactyl-keyboard).
+- Adding [guard patterns](https://github.com/rust-lang/rfcs/pull/3637) to Rust.
 - Revamping [my personal site](https://maxniederman.com).
+- Designing and building my own custom ergonomic split keyboard, inspired by the [Dactyl Manuform](https://github.com/tshort/dactyl-keyboard).
+- Looking for an internship. Feel free to [reach out](mailto://max@maxniederman.com)!
 
 Besides my own projects, I also contribute to
 
