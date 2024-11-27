@@ -13,7 +13,6 @@ Besides my own projects, I also contribute to
 
 - [Rust](https://rust-lang.org), my favorite programming language.
 - [Nix/Nixpkgs/NixOS](https://nixos.org), my package manager, build tool, and operating system of choice.
-- [Vexide](https://github.com/vexide/vexide), a Rust runtime for VEX V5 robots.
 
 I was programming lead of [FRC Team 3636](https://frcteam3636.com) for two years.
 
