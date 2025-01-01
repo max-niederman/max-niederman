@@ -2,11 +2,11 @@
 
 Student. Mathematician. Programmer. Engineer.
 
-Main things I'm working on right now (as of 2024-10-05):
+Main things I'm working on right now (as of 2024-12-01):
 
 - Adding [guard patterns](https://github.com/rust-lang/rfcs/pull/3637) to Rust.
-- Revamping [my personal site](https://maxniederman.com).
-- Designing and building my own custom ergonomic split keyboard, inspired by the [Dactyl Manuform](https://github.com/tshort/dactyl-keyboard).
+- Adding the [armv7a-vex-v5 target](https://github.com/rust-lang/rust/pull/131530) to Rust.
+- Making [Centipede](https://github.com/max-niederman/centipede), a multipathing VPN for improving Internet reliability and performance.
 - Looking for an internship. Feel free to [reach out](mailto://max@maxniederman.com)!
 
 Besides my own projects, I also contribute to
