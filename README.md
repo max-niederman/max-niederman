@@ -2,7 +2,7 @@
 
 Student. Mathematician. Programmer. Engineer.
 
-Main things I'm working on right now (as of 2024-12-01):
+Main things I'm working on right now (as of 2024-12-31):
 
 - Adding [guard patterns](https://github.com/rust-lang/rfcs/pull/3637) to Rust.
 - Adding the [armv7a-vex-v5 target](https://github.com/rust-lang/rust/pull/131530) to Rust.
