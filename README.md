@@ -1,13 +1,12 @@
 # Hi, I'm Max.
 
-Student. Mathematician. Programmer. Engineer.
+I'm currently working as a founding ML engineer at [Bindwell](https://bindwell.ai) (YC W25).
 
-Main things I'm working on right now (as of 2024-12-31):
+Besides that, I'm also working on the following side projects (as of 2025-01-30):
 
 - Adding [guard patterns](https://github.com/rust-lang/rfcs/pull/3637) to Rust.
 - Adding the [armv7a-vex-v5 target](https://github.com/rust-lang/rust/pull/131530) to Rust.
 - Making [Centipede](https://github.com/max-niederman/centipede), a multipathing VPN for improving Internet reliability and performance.
-- Looking for an internship. Feel free to [reach out](mailto://max@maxniederman.com)!
 
 Besides my own projects, I also contribute to
 
