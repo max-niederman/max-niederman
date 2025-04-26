@@ -1,6 +1,6 @@
 # Hi, I'm Max.
 
-I'm currently working as a founding ML engineer at [Bindwell](https://bindwell.ai) (YC W25).
+I'm currently working as a Chief Scientific Officer at [Bindwell](https://bindwell.ai) (YC W25).
 
 Besides that, I'm also working on the following side projects (as of 2025-01-30):
 
