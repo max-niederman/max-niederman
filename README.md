@@ -1,22 +1,22 @@
 # Hi, I'm Max.
 
-I'm currently working as a Chief Scientific Officer at [Bindwell](https://bindwell.ai) (YC W25).
+I’m Max, an eighteen-year-old software engineer. This is my GitHub, where (almost) all of my code lives.
 
-Besides that, I'm also working on the following side projects (as of 2025-01-30):
+I am currently searching for my next job and working on some independent projects. Previously, I was Chief Scientific Officer at [Bindwell](https://bindwell.com) (YC W25), and studied math at [Reed College](https://reed.edu).
 
-- Adding [guard patterns](https://github.com/rust-lang/rfcs/pull/3637) to Rust.
-- Adding the [armv7a-vex-v5 target](https://github.com/rust-lang/rust/pull/131530) to Rust.
-- Making [Centipede](https://github.com/max-niederman/centipede), a multipathing VPN for improving Internet reliability and performance.
+Besides my own projects, I also contribute to FOSS projects like
 
-Besides my own projects, I also contribute to
-
-- [Rust](https://rust-lang.org), my favorite programming language.
-- [Nix/Nixpkgs/NixOS](https://nixos.org), my package manager, build tool, and operating system of choice.
+- [Rust](https://rust-lang.org), my favorite programming language;
+- [Nix/Nixpkgs/NixOS](https://nixos.org), my package manager, build tool, and operating system of choice; and
 - [Vexide](https://github.com/vexide/vexide), a Rust runtime for VEX V5 robots.
 
-I was programming lead of [FRC Team 3636](https://frcteam3636.com) for two years.
+I was also programming lead of [FRC Team 3636](https://frcteam3636.com) for two years.
 
-Join [my Discord server](https://discord.gg/3wJyrBsKXu) or
-contact me via
+I’ve pledged to donate at least 10% of my lifetime income to effective charities. [You should too.](https://givingwhatwecan.org/pledge)
+
+Contact me via
 - Discord DM: `_aq`
 - Email: [`max@maxniederman.com`](mailto://max@maxniederman.com)
+- LinkedIn: [`max-niederman`](https://linkedin.com/in/max-niederman)
+
+_Up-to-date as of 2025-07-26._
